@@ -20,4 +20,10 @@ jumlah_anak = 8
 for index_anak in range(1, jumlah_anak+1):
     print(f'Hai anak ke-{index_anak}')
 
+# PERULANGAN LAGI
+jumlah_anak = 5
+
+for induk_anak in range(1, jumlah_anak+1):
+    print(f'Hai anak ke-{1}')
+
 
