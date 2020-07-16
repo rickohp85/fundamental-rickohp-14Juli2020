@@ -27,3 +27,6 @@ for induk_anak in range(1, jumlah_anak+1):
     print(f'Hai anak ke-{1}')
 
 
+
+
+
